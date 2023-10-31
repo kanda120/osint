@@ -1,0 +1,16 @@
+git clone https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan.git
+
+
+
+cd Fast-Google-Dorks-Scan
+
+
+
+
+sudo chmod 777 FGDS.sh
+
+
+
+
+
+sudo ./FGDS.sh geeksforgeeks.org

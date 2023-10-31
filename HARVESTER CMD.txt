@@ -1,0 +1,41 @@
+git clone https://github.com/laramies/theHarvester.git
+
+
+cd theHarvester
+
+
+
+pip install -r requirements.txt
+
+
+
+theHarvester
+
+theharvester -d aslanrahir.com -l 5 -b google
+
+theharvester -b all -d zonetransfer.me
+theharvester -d microsoft.com -b google
+theHarvester -d microsoft.com -l 500 -b yahoo
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+
+https://www.nmmapper.com/sys/theharvester/email-harvester-tool/online/  
+
+
+
+
+https://techyrick.com/theharvester/
+https://cheatography.com/classassignment124/cheat-sheets/theharvester-cheat-sheet/
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------
+https://www.webcrawler.com
+
